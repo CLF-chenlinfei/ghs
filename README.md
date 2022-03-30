@@ -1,2 +1,2 @@
-# ghs
-是一个爬取Xvideos和Pixiv画师的带pyqt5界面的爬虫
+#有爬取 pixiv 画师和爬取 xvideos 小视频功能
+
