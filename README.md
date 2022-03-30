@@ -1,0 +1,2 @@
+# ghs
+是一个爬取Xvideos和Pixiv画师的带pyqt5界面的爬虫
